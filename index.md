@@ -12,3 +12,5 @@ My work integrates applied microeconomics and health economics to investigate ho
 I leverage microeconometric methods to identify the determinants of fitness program uptake, with a current focus on the causal effects of Medicare Advantage fitness benefits on seniors’ health behaviors.
 
 - CV: [download](/files/Jung_CV.pdf)
+
+{% include custom-recent.html %}
