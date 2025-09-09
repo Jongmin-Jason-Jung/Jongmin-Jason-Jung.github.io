@@ -1,11 +1,33 @@
 title: "Jason (Jong Min) Jung"
+name: "Jason (Jong Min) Jung"
 url: "https://jmjung-dotcom.github.io"
-baseurl: ""
-theme: jekyll-theme-minimal   # simple, reliable
+baseurl: ""                  # user site → leave empty
 
+# Use AcademicPages (Minimal Mistakes)
+remote_theme: "academicpages/academicpages.github.io"
+
+# Plugins GitHub Pages supports
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Sidebar / author block
 author:
   name: "Jason (Jong Min) Jung"
-  avatar: "/images/profile.jpeg"
+  avatar: "/images/profile.jpeg"    # you uploaded this
   bio: "PhD Candidate in Economics, University of Washington"
   location: "Seattle, WA"
   email: "jmjung@uw.edu"
+
+# Social (add what you have; leave others out)
+social:
+  - label: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:jmjung@uw.edu"
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/jmjung-dotcom"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
