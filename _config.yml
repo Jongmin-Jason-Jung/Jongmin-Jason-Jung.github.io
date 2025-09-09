@@ -1,8 +1,7 @@
 title: "Jason (Jong Min) Jung"
-name:  "Jason (Jong Min) Jung"
-
-url: "https://jmjung-dotcom.github.io"   # your user/organization page URL
-baseurl: ""                               # keep empty for user/organization pages
+name: "Jason (Jong Min) Jung"
+url: "https://jmjung-dotcom.github.io"
+baseurl: ""
 
 remote_theme: "academicpages/academicpages.github.io"
 
@@ -16,15 +15,13 @@ plugins:
 markdown: kramdown
 permalink: /:categories/:title/
 
-# --- Sidebar / author block ---
 author:
   name: "Jason (Jong Min) Jung"
-  avatar: "/images/profile.jpeg"     # file exists at images/profile.jpeg
+  avatar: "/images/profile.jpeg"
   bio: "PhD Candidate in Economics, University of Washington"
   location: "Seattle, WA"
   email: "jmjung@uw.edu"
 
-# --- Social links (shown under the author card) ---
 social:
   - label: "Email"
     icon: "fas fa-envelope"
