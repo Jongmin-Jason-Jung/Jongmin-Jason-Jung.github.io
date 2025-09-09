@@ -37,3 +37,4 @@ include:
   - assets/css/custom.css
   - _pages
 
+future: true
