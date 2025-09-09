@@ -1,12 +1,10 @@
 ---
----
-title: "Conference Presentation – APAAM 2025"
+title: "APAAM Conference Presentation"
 date: 2025-11-01
 categories: [conference]
-tags: [Medicare Advantage, Physical Activity, APAAM 2025]
+tags: [APAAM, Medicare Advantage, Physical Activity]
 ---
 
----
 
 **APAAM 2025 Annual Conference**  
 *Nov 2025* — Presenter  
