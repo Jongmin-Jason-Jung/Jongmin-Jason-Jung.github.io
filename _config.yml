@@ -3,23 +3,24 @@ name: "Jason (Jong Min) Jung"
 url: "https://jmjung-dotcom.github.io"
 baseurl: ""                  # user site → leave empty
 
-# Use AcademicPages (Minimal Mistakes)
 remote_theme: "academicpages/academicpages.github.io"
 
-# Plugins GitHub Pages supports
 plugins:
   - jekyll-include-cache
-  - jekyll-remote-theme
+  - jekyll-remote-theme      # ← no trailing dot
+
+markdown: kramdown
+permalink: /:categories/:title/
 
 # Sidebar / author block
 author:
   name: "Jason (Jong Min) Jung"
-  avatar: "/images/profile.jpeg"    # you uploaded this
+  avatar: "/images/profile.jpeg"
   bio: "PhD Candidate in Economics, University of Washington"
   location: "Seattle, WA"
   email: "jmjung@uw.edu"
 
-# Social (add what you have; leave others out)
+# Social
 social:
   - label: "Email"
     icon: "fas fa-envelope"
@@ -27,7 +28,3 @@ social:
   - label: "GitHub"
     icon: "fab fa-github"
     url: "https://github.com/jmjung-dotcom"
-
-# Build settings
-markdown: kramdown
-permalink: /:categories/:title/
