@@ -35,4 +35,5 @@ sass:
 
 include:
   - assets/css/custom.css
+  - _pages
 
