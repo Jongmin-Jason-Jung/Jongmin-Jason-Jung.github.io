@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# Jason (Jong Min) Jung
-Hello! If you can read this, the site is working.
+I am a PhD candidate in Economics at the University of Washington.
 
 - CV: [download](/files/Jung_CV.pdf)
