@@ -1,10 +1,9 @@
 ---
-layout: home
+layout: default
 title: "Welcome!"
 ---
 
-Hello! If you can read this, GitHub Pages is working.
+# Jason (Jong Min) Jung
+Hello! If you can read this, the site is working.
 
 - CV: [download](/files/Jung_CV.pdf)
-
-
