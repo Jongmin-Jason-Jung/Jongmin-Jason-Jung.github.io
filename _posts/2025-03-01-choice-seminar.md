@@ -1,6 +1,6 @@
 ---
 title: "Seminar Presentation – CHOICE Institute (University of Washington)"
-date: 2025-03-01
+date: 2025-10-15
 categories: [seminar]
 tags: [CHOICE Institute, University of Washington]
 ---
