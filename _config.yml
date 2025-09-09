@@ -7,7 +7,7 @@ remote_theme: "academicpages/academicpages.github.io"
 
 plugins:
   - jekyll-include-cache
-  - jekyll-remote-theme      # ← no trailing dot
+  - jekyll-remote-theme      # no trailing dot
 
 markdown: kramdown
 permalink: /:categories/:title/
@@ -20,7 +20,7 @@ author:
   location: "Seattle, WA"
   email: "jmjung@uw.edu"
 
-# Social
+# Social links
 social:
   - label: "Email"
     icon: "fas fa-envelope"
