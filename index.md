@@ -14,5 +14,7 @@ I leverage microeconometric methods to identify the determinants of fitness prog
 - CV: [download](/files/Jung_CV.pdf)
 
 {% include custom-recent.html %}
-<img src="/images/seniors_exercise.jpg" alt="Older adults exercising" style="float: right; margin-left: 20px; width: 300px; border-radius: 12px;">
+<div style="text-align: right; margin-top: 20px;">
+  <img src="/images/seniors_exercise.jpg" alt="Older adults exercising" style="width: 350px; border-radius: 12px;">
+</div>
 
