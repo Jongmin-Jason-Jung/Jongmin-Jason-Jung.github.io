@@ -1,8 +1,7 @@
 title: "Jason (Jong Min) Jung"
 url: "https://jmjung-dotcom.github.io"
-baseurl: ""      # must be empty for user sites
-theme: minima    # or jekyll-theme-minimal
-
+baseurl: ""
+theme: jekyll-theme-minimal   # simple, reliable
 
 author:
   name: "Jason (Jong Min) Jung"
