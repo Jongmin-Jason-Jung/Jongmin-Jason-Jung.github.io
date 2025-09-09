@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Personal"
-permalink: /personal/
+title: "Education"
+permalink: /education/
 author_profile: true
 ---
 
