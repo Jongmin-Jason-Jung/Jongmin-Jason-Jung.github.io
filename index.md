@@ -3,6 +3,10 @@ layout: home
 title: "Welcome!"
 permalink: /
 author_profile: true
+show_excerpts: false
+show_recent: false
+---
+
 ---
 
 Fields of interest : Health Economics and Applied Microeconomics
