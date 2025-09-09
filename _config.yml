@@ -2,3 +2,11 @@ title: "Jason (Jong Min) Jung"
 url: "https://jmjung-dotcom.github.io"
 baseurl: ""      # must be empty for user sites
 theme: minima    # or jekyll-theme-minimal
+
+
+author:
+  name: "Jason (Jong Min) Jung"
+  avatar: "/images/profile.jpeg"
+  bio: "PhD Candidate in Economics, University of Washington"
+  location: "Seattle, WA"
+  email: "jmjung@uw.edu"
