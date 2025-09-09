@@ -26,3 +26,13 @@ social:
   - label: "GitHub"
     icon: "fab fa-github"
     url: "https://github.com/jmjung-dotcom"
+
+# Custom CSS
+minimal_mistakes_skin: default
+
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
+
