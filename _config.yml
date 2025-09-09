@@ -8,9 +8,6 @@ remote_theme: "academicpages/academicpages.github.io"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
 
 markdown: kramdown
 permalink: /:categories/:title/
