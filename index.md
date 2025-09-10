@@ -18,4 +18,3 @@ I leverage microeconometric methods to identify the determinants of fitness prog
   <img src="/images/seniors_exercise.jpg" alt="Older adults exercising" style="width: 350px; border-radius: 12px;">
 </div>
 
-<embed src="/files/Jung_CV.pdf" type="application/pdf" width="100%" height="800px" />
