@@ -5,11 +5,10 @@ permalink: /
 author_profile: true
 ---
 
-Fields of interest : Health Economics and Applied Microeconomics
+Fields of interest : Health Economics,  Applied Microeconomics, Econometrics
 
-My work integrates applied microeconomics and health economics to investigate how policy and program design influence physical activity and health outcomes in older adults.
-
-I leverage microeconometric methods to identify the determinants of fitness program uptake, with a current focus on the causal effects of Medicare Advantage fitness benefits on seniors’ health behaviors.
+My research integrates applied microeconomics and health economics to examine how policy and program design shape physical activity and health outcomes among older adults. 
+Using microeconometric methods, I study the determinants of fitness program uptake and the causal effects of Medicare Advantage fitness benefits on seniors’ health behaviors.
 
 - CV: [download](/files/Jung_CV.pdf)
 
