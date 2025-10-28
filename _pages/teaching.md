@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Experience
 
-**Instructor**, Seattle University   
+**Adjunct Instructor**, Seattle University   
 *ECON2110 : Principles of Economics- Micro*  
 Jan 2026 - Mar 2026
 
