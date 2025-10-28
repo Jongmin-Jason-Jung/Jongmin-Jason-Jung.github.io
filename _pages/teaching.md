@@ -7,13 +7,14 @@ author_profile: true
 
 ## Teaching Experience
 
-**Instructor**, Seattle University
+**Instructor**, Seattle University   
 *ECON2110 : Principles of Economics- Micro*
 Jan 2026 - Mar 2026
 
 **Instructor**, University of Washington  
 *ECON 200: Introduction to Microeconomics*  
-Oct 2024 – June 2025
+Oct 2024 – June 2025  
+Dec 2025 - Mar 2026
 
 **Graduate Teaching Assistant**, University of Washington  
 *ECON 200: Introduction to Microeconomics*  
