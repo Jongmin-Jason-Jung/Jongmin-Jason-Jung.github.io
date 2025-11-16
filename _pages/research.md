@@ -41,7 +41,7 @@ Abstract forthcoming.
 ### **Predictors of Discontinued Participation in a Fruit and Vegetable Voucher Program: The Role of Community Organizations in Engaging Non-English Speakers**  
 **(with Chaparro, P., Wallace, J., Baquero, B., Jones-Smith, J., & Knox, M.)**  
 <small>
-Abstract forthcoming.
+Healthy food voucher programs (HFVPs) are an important fiscal tool for addressing inequities in healthy food consumption. Fresh Bucks, a HFVP in Seattle, Washington, USA, provides US$40/month for fruit and vegetable (FV) purchases to low-income households, encouraging long-term participation and utilizing a community-supported enrollment model to engage non-English speaking households. Previous research demonstrated that Fresh Bucks participation reduced food insecurity and increased FV consumption; yet 46% of participating households chose to discontinue participation when requested to re-apply ~2 years post initial enrollment. We sought to identify factors that predict discontinuation of Fresh Bucks participation, particularly among non-English speakers
 </small>
 
 ---
