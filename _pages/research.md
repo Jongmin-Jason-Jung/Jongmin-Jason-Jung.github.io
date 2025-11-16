@@ -7,27 +7,41 @@ author_profile: true
 
 ## Working Papers
 
-- **Get Fit with MA? Estimating the Impact of Medicare Advantage on Physical Activity** - Abstract
-  
-  <small>
-  Medicare Advantage (MA) plans increasingly offer fitness benefits yet evidence on their causal impact remains limited. Using fuzzy regression discontinuity design, we provide the first quasi-experimental evidence about the impact of MA enrollment on seniors' physical activity. Linking nationally representative survey data on workout behavior with insurance records, we find that MA enrollment significantly increases vigorous workout days while no comparable effect is observed for Traditional Medicare (TM) which does not offer fitness benefits. Three robustness checks including placebo test, doughnut-hole analysis, and inverse probability weighting regression adjustments support the validity of our findings. The results highlight the role of structured insurance design in shaping health behaviors and indicate that fitness benefits in MA encourage more active lifestyles, offering timely and actionable insights for policymakers to promote healthy aging through targeted benefit structures.
-  </small>
+### **Get Fit with MA? Estimating the Impact of Medicare Advantage on Physical Activity**  
+<small>
+Medicare Advantage (MA) plans increasingly offer fitness benefits, yet evidence on their causal impact remains limited. Using a regression discontinuity in difference in difference (RDDD) design centered at the age-65 Medicare eligibility threshold, this study provides first quasi-experimental evidence on how MA enrollment affects seniors’ physical activity. Linking nationally representative survey data on workout behavior with insurance coverage information, we find that the discontinuity in vigorous workout days at age 65 is significantly larger for MA enrollees than for non-MA beneficiaries, who do not receive comparable fitness benefits. Robustness checks including placebo cutoffs and a donut-hole analysis yield consistent results. These findings highlight how insurance design can shape health behavior and suggest that fitness benefits in Medicare Advantage encourage more active lifestyles, offering timely insights for policymakers seeking to promote healthy aging through targeted benefit structures.
+</small>
 
-
-- **When Your Neighbor Joins the Gym: Causal Evidence of Physical Activity Spillovers from Medicare Advantage Enrollment** - Abstract
-  
-- **Where Seniors Sweat : Geographic Variation in SilverSneakers Uptake** - Abstract
-
-  
 ---
 
-## Research Experience
+### **When Your Neighbor Joins the Gym: Causal Evidence of Physical Activity Spillovers from Medicare Advantage Enrollment**  
+<small>
+Abstract forthcoming.
+</small>
 
-**Research Assistant**, University of Washington  
-*Evaluating the impact of the Fresh Bucks program on fruit and vegetable consumption in Seattle*  
-Mar 2025 – Present
+---
 
-**Researcher, Student Multidisciplinary Applied Research Team (SMART)**, Cornell University  
-*Studied SME digital platforms and e-commerce; contributed survey data to*  
-*Exploring the Impact of Digital Platforms on SMEs* (Advisors: Dr. Ralph Christy, Dr. Lin Fu)  
-Oct 2020 – May 2022
+### **Where Seniors Sweat: Geographic Variation in SilverSneakers Uptake**  
+<small>
+Abstract forthcoming.
+</small>
+
+---
+
+### **Cross-national Analysis of the Determinants of Dementia Prevalence: Evidence from the United States and Caribbean Countries**  
+**(with Li J. & Dow W.)**  
+<small>
+Abstract forthcoming.
+</small>
+
+---
+
+### **Predictors of Discontinued Participation in a Fruit and Vegetable Voucher Program: The Role of Community Organizations in Engaging Non-English Speakers**  
+**(with Chaparro, P., Wallace, J., Baquero, B., Jones-Smith, J., & Knox, M.)**  
+<small>
+Abstract forthcoming.
+</small>
+
+---
+
+
