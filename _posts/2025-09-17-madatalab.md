@@ -2,7 +2,7 @@
 title: "Medicare Advatantage Data Lab"
 date: 2025-09-17
 categories: [talks]
-location : Johns Hopkins University"
+location : "Johns Hopkins University"
 tags: [ Medicare Advantage, Physical Activity]
 ---
 
