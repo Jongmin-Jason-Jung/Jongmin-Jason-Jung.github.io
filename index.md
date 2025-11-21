@@ -12,8 +12,14 @@ Using microeconometric methods, I study the determinants of fitness program upta
 
 - CV: [download](/files/Jung_CV.pdf)
 
-{% include custom-recent.html %}
-<div style="text-align: right; margin-top: 20px;">
-  <img src="/images/seniors_exercise.jpg" alt="Older adults exercising" style="width: 350px; border-radius: 12px;">
-</div>
+<h2>Conference / Seminar Presentations</h2>
+<ul>
+  {% assign talks = site.posts | where_exp: "p","p.categories contains 'talks'" %}
+  {% for post in talks %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> —
+      {{ post.date | date: "%b %Y" }}
+    </li>
+  {% endfor %}
+</ul>
 
