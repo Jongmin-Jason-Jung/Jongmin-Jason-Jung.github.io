@@ -2,6 +2,7 @@
 title: "APPAM 2025 Annual Conference "
 date: 2025-11-01
 categories: [talks]
+location : "Seattle , WA"
 tags: [APPAM, Medicare Advantage, Physical Activity]
 ---
 
