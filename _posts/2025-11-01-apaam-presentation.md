@@ -10,4 +10,4 @@ tags: [APPAM, Medicare Advantage, Physical Activity]
 *Nov 2025* — Presenter  
 
 **“Get Fit with MA? Estimating the Impact of Medicare Advantage on Physical Activity”**  
-with Dr. Jing Li *(expected)*
+with Dr. Jing Li 
