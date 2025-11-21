@@ -1,5 +1,5 @@
 ---
-title: "APPAM Conference Presentation"
+title: "APPAM 2025 Annaul Conference "
 date: 2025-11-01
 categories: [conference]
 tags: [APPAM, Medicare Advantage, Physical Activity]
