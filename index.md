@@ -17,8 +17,10 @@ Using microeconometric methods, I study the determinants of fitness program upta
   {% assign talks = site.posts | where_exp: "p","p.categories contains 'talks'" %}
   {% for post in talks %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> —
-      {{ post.date | date: "%b %Y" }}
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% if post.location %}
+      — {{ post.location }}
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
