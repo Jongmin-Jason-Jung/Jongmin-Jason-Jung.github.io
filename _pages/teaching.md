@@ -8,7 +8,7 @@ author_profile: true
 ## Teaching Experience
 
 **Adjunct Instructor**, Seattle University   
-*ECON2110 : Principles of Microeconomics*
+*ECON2110 : Principles of Microeconomics* 
 Jan 2026 - Mar 2026
 
 **Instructor**, University of Washington  
