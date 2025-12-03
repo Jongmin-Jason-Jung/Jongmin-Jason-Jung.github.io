@@ -15,7 +15,7 @@ Medicare Advantage (MA) plans increasingly offer fitness benefits, yet evidence 
 
 ---
 
-### **Do Seniors Follow Their Neighbors? Causal Evidence on Social Spillovers in MedicareAdvantage Enrollment**  
+### **Do Seniors Follow Their Neighbors? Causal Evidence on Social Spillovers in Medicare Advantage Enrollment**  
 <small>
 Medicare Advantage (MA) enrollment continues to rise, yet little is known about whether seniors’ plan choices respond to the behavior and information circulating within their social environments and day-to-day networks. This study examines peer spillovers in MA take-up using quasi-exogenous variation from neighboring counties’ Urban Floor (UF) payment status, which expands MA plan availability in adjacent markets while leaving the focal county’s own payment rules unchanged.Using nationally representative survey data linked to restricted geographic identifiers, I construct cross-county social exposure networks based on tract and neighborhood adjacency. A leave-one-out measure of peer MA penetration is instrumented with neighbors’ UF status, providing variation that is unaffected by mechanical reflection, shared shocks, or correlated preferences.I find sizable social spillovers: Higher adjacent-county MA penetration significantly increases an individual’s likelihood of MA enrollment through mechanisms operating within seniors’ social networks and community-based social activities. Evidence points to informational diffusion and visible health-behavior channels through which peers transmit plan information and shape perceptions of MA benefits. These results highlight the critical role of social environments in Medicare plan choice and reveal previously unrecognized externalities embedded in MA payment policy.
 </small>
