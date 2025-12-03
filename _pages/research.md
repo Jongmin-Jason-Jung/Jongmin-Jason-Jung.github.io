@@ -46,4 +46,12 @@ Healthy food voucher programs (HFVPs) are an important fiscal tool for addressin
 
 ---
 
+---
 
+### **Do Unionized Firms Have Better Management Practice?**  
+**(with Basu. A)**  
+<small>
+Using the World Management Survey’s (WMS) standardized methodology, we collect data on management practices and union density from more than 10,000 private manufacturing firms across Latin America, North America, and Europe. While prior work shows that management quality strongly predicts firm performance, the role of labor unions in shaping managerial practices remains unclear. We find that unionized firms are, on average, significantly better managed overall. However, this masks important heterogeneity: unionized firms score lower on People Management practices but score markedly higher on Operations, Monitoring, and Target-setting practices, suggesting that unions promote structured performance systems while limiting flexibility in personnel management.
+</small>
+
+---
