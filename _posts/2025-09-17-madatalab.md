@@ -7,7 +7,7 @@ tags: [ Medicare Advantage, Physical Activity]
 ---
 
 
-**Medicare Advatantage Data Lab - Johns Hopkins University**  
+**Medicare Advantage Data Lab - Johns Hopkins University**  
 *Sep 2025* — Presenter  
 
 **“Get Fit with MA? Estimating the Impact of Medicare Advantage on Physical Activity”**  
