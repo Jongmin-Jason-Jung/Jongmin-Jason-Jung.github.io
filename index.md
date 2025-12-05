@@ -7,7 +7,7 @@ author_profile: true
 
 Fields of interest : Health Economics,  Applied Microeconomics, Econometrics
 
-My research applies microeconometric methods to evaluate how health-policy and program design shape physical activity and health outcomes among older adults. I study the behavioral and structural determinants of fitness-benefit uptake and estimate the causal impacts of Medicare Advantage fitness programs and related health-promotion initiatives on seniors’ exercise behavior and healthy aging.
+My research applies microeconometric methods to evaluate how health policy and program design shape physical activity and health outcomes among older adults. I study the behavioral and structural determinants of fitness-benefit uptake and estimate the causal impacts of Medicare Advantage fitness programs and related health-promotion initiatives on seniors’ exercise behavior and healthy aging.
 
 - CV: [download](/files/Jung_CV.pdf)
 
