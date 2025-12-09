@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+ 
 ## Working Papers
 
 ### **Get Fit with MA? Estimating the Impact of Medicare Advantage on Physical Activity** [Paper](/files/Jung_Li_2025.pdf)
