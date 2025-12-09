@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-### **Get Fit with MA? Estimating the Impact of Medicare Advantage on Physical Activity** [Paper](/files/Jung_Li_2025.pdf)
+### **Get Fit with MA? Estimating the Impact of Medicare Advantage on Physical Activity** [Paper](/files/Jung_Li_2026.pdf)
 **(with Li J.)**  
 <small>
 Medicare Advantage (MA) plans increasingly offer fitness benefits, yet evidence on their causal impact remains limited. Using a regression discontinuity in difference in difference (RDDD) design centered at the age-65 Medicare eligibility threshold, this study provides first quasi-experimental evidence on how MA enrollment affects seniors’ physical activity. Linking nationally representative survey data on workout behavior with insurance coverage information, we find that the discontinuity in vigorous workout days at age 65 is significantly larger for MA enrollees than for non-MA beneficiaries, who do not receive comparable fitness benefits. Robustness checks including placebo cutoffs and a donut-hole analysis yield consistent results. These findings highlight how insurance design can shape health behavior and suggest that fitness benefits in Medicare Advantage encourage more active lifestyles, offering timely insights for policymakers seeking to promote healthy aging through targeted benefit structures.
