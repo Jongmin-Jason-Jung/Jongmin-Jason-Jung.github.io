@@ -13,7 +13,7 @@ the life cycle. My work combines quasi-experimental methods with rich survey and
 to answer questions at the intersection of health economics, economics of aging, and spatial inequality.
 
 
-- CV: [download](/files/Jung_CV.pdf)
+- You can find my CV here : [CV](/files/Jung_CV.pdf)
 
   
 In ongoing and completed projects, I study:
