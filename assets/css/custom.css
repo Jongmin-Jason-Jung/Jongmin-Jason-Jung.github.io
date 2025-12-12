@@ -1,4 +1,4 @@
-/* Force the avatar wrapper to be a perfect circle */
+/* Avatar: force perfect circle in Minimal Mistakes sidebar */
 .sidebar .author__avatar,
 .sidebar .author__avatar a {
   width: 220px !important;
@@ -8,8 +8,8 @@
   display: block !important;
 }
 
-/* Force the image to fill the wrapper without stretching */
-.sidebar .author__avatar img {
+.sidebar .author__avatar img,
+.sidebar .author__avatar a img {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
