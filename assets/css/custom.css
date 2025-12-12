@@ -1,25 +1,7 @@
-/* 1) Widen the left sidebar column */
-@media (min-width: 64em) {            /* desktop only */
-  .sidebar {
-    width: 320px;                    /* try 300–340 */
-  }
-  .page__content {
-    width: calc(100% - 320px);       /* match sidebar width */
-  }
-}
-
-/* 2) Make avatar bigger (and not clipped) */
-.author__avatar,
-.sidebar .author__avatar {
-  width: 240px !important;           /* try 220–260 */
-}
-
-.author__avatar img,
+/* Bigger circular avatar */
 .sidebar .author__avatar img {
-  width: 240px !important;
-  height: 240px !important;
-  max-width: none !important;
-  border-radius: 50% !important;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
   object-fit: cover;
-  display: block;
 }
