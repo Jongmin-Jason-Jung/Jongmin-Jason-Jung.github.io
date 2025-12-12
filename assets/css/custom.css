@@ -1,10 +1,10 @@
-/* === NUCLEAR: force big circular avatar in Minimal Mistakes sidebar === */
-.sidebar.sticky .author__avatar,
-.sidebar.sticky .author__avatar a,
+/* =========================================================
+   BIG, fixed-size, true circular avatar (Minimal Mistakes)
+   ========================================================= */
+
+/* Avatar wrapper */
 .sidebar .author__avatar,
-.sidebar .author__avatar a,
-.author__avatar,
-.author__avatar a{
+.sidebar .author__avatar a{
   width: 220px !important;
   height: 220px !important;
   max-width: 220px !important;
@@ -14,14 +14,35 @@
   overflow: hidden !important;
 }
 
-.sidebar.sticky .author__avatar img,
-.sidebar .author__avatar img,
-.author__avatar img{
+/* Avatar image */
+.sidebar .author__avatar img{
   width: 100% !important;
   height: 100% !important;
-  max-width: none !important;      /* this is usually the culprit */
+  max-width: none !important;
   max-height: none !important;
   object-fit: cover !important;
   border-radius: 50% !important;
   display: block !important;
+}
+
+/* =========================================================
+   Disable hover / focus visual effects (NO resizing)
+   ========================================================= */
+
+.sidebar .author__avatar img{
+  transition: none !important;
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+.sidebar .author__avatar:hover img,
+.sidebar .author__avatar a:hover img,
+.sidebar .author__avatar a:focus img{
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+/* Optional: make avatar feel non-clickable */
+.sidebar .author__avatar a{
+  cursor: default !important;
 }
