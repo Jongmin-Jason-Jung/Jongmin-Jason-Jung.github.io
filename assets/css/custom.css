@@ -1,16 +1,27 @@
-/* Disable hover/focus effects on the avatar (no sharpening / fading) */
+/* === NUCLEAR: force big circular avatar in Minimal Mistakes sidebar === */
+.sidebar.sticky .author__avatar,
+.sidebar.sticky .author__avatar a,
 .sidebar .author__avatar,
 .sidebar .author__avatar a,
-.sidebar .author__avatar img{
-  transition: none !important;
-  filter: none !important;
-  opacity: 1 !important;
+.author__avatar,
+.author__avatar a{
+  width: 220px !important;
+  height: 220px !important;
+  max-width: 220px !important;
+  max-height: 220px !important;
+  display: block !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
 }
 
-.sidebar .author__avatar:hover img,
-.sidebar .author__avatar a:hover img,
-.sidebar .author__avatar:focus img,
-.sidebar .author__avatar a:focus img{
-  filter: none !important;
-  opacity: 1 !important;
+.sidebar.sticky .author__avatar img,
+.sidebar .author__avatar img,
+.author__avatar img{
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;      /* this is usually the culprit */
+  max-height: none !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block !important;
 }
