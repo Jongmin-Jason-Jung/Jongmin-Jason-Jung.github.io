@@ -1,11 +1,11 @@
 /* FORCE sidebar profile image size */
 .author__avatar {
-  width: 280px !important;
+  width: 270px !important;
 }
 
 .author__avatar img {
-  width: 280px !important;
-  height: 280px !important;
+  width: 270px !important;
+  height: 270px !important;
   max-width: none !important;
   border-radius: 50%;
 }
