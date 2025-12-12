@@ -1,7 +1,8 @@
-/* Bigger circular avatar */
+/* Make avatar a perfect circle without distortion */
 .sidebar .author__avatar img {
-  width: 240px;
-  height: 240px;
-  border-radius: 50%;
-  object-fit: cover;
+  width: 220px !important;
+  height: 220px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block;
 }
