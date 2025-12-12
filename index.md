@@ -5,6 +5,8 @@ permalink: /
 author_profile: true
 ---
 
+- CV: [download](/files/Jung_CV.pdf)
+
 Fields of interest : Health Economics,  Applied Microeconomics, Econometrics
 
 I am a health economist and applied microeconomist studying how insurance design, local resources, 
@@ -23,7 +25,6 @@ Together, these projects speak directly to current policy debates on how to desi
 healthy behavior among aging and vulnerable populations.
 
 
-- CV: [download](/files/Jung_CV.pdf)
 
 <h2>Conference / Seminar Presentations</h2>
 <ul>
