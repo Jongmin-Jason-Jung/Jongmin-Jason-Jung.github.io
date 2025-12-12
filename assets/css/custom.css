@@ -1,18 +1,5 @@
-/* Avatar: force perfect circle in Minimal Mistakes sidebar */
-.sidebar .author__avatar,
-.sidebar .author__avatar a {
-  width: 220px !important;
-  height: 220px !important;
-  border-radius: 50% !important;
-  overflow: hidden !important;
-  display: block !important;
-}
-
-.sidebar .author__avatar img,
-.sidebar .author__avatar a img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover !important;
-  border-radius: 0 !important;   /* wrapper handles circle */
-  display: block !important;
+/* Make sidebar profile image larger */
+.author__avatar img {
+  max-width: 220px;   /* default ~120px, adjust to your liking */
+  border-radius: 50%; /* keeps it circular */
 }
