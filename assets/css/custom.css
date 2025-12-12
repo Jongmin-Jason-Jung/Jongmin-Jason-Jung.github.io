@@ -42,7 +42,3 @@
   opacity: 1 !important;
 }
 
-/* Optional: make avatar feel non-clickable */
-.sidebar .author__avatar a{
-  cursor: default !important;
-}
