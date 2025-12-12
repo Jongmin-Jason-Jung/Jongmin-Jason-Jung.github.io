@@ -1,0 +1,17 @@
+/* Bigger circular avatar */
+.sidebar .author__avatar img {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Widen sidebar so avatar doesn't get clipped */
+@media (min-width: 64em) {
+  .sidebar {
+    width: 320px;
+  }
+  .page__content {
+    width: calc(100% - 320px);
+  }
+}
