@@ -13,15 +13,15 @@ the life cycle. My work combines quasi-experimental methods with rich survey and
 to answer questions at the intersection of health economics, economics of aging, and spatial inequality.
 
 
-- You can find my CV here : [CV](/files/Jung_CV.pdf)
+- **You can find my CV here : [CV](/files/Jung_CV.pdf)**
 
   
 In ongoing and completed projects, I study:
-- **How Medicare Advantage (MA) fitness benefits affect seniors’ physical activity?**
-- **How social networks and geography shape MA enrollment and program uptake?**
-- **What are the facilitators and barriers to exercise?**
-- **How emerging technologies such as digital health tools, wearable devices shape peventive health behavior?**
-- **How place-based resources, such as food assistance programs and neighborhood environments, influence health?**
+- How Medicare Advantage (MA) fitness benefits affect seniors’ physical activity?
+- How social networks and geography shape MA enrollment and program uptake?
+- What are the facilitators and barriers to exercise?
+- How emerging technologies such as digital health tools, wearable devices shape peventive health behavior?
+- How place-based resources, such as food assistance programs and neighborhood environments, influence health?
 
 Together, these projects speak directly to current policy debates on how to design incentives for 
 healthy behavior among aging and vulnerable populations.
