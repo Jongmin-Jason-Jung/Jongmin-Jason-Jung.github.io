@@ -1,5 +1,11 @@
-/* Make sidebar profile image larger */
+/* FORCE sidebar profile image size */
+.author__avatar {
+  width: 260px !important;
+}
+
 .author__avatar img {
-  max-width: 300px;   /* default ~120px, adjust to your liking */
-  border-radius: 50%; /* keeps it circular */
+  width: 260px !important;
+  height: 260px !important;
+  max-width: none !important;
+  border-radius: 50%;
 }
