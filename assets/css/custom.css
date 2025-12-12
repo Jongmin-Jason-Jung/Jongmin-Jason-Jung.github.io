@@ -1,8 +1,18 @@
-/* Make avatar a perfect circle without distortion */
-.sidebar .author__avatar img {
+/* Force the avatar wrapper to be a perfect circle */
+.sidebar .author__avatar,
+.sidebar .author__avatar a {
   width: 220px !important;
   height: 220px !important;
   border-radius: 50% !important;
+  overflow: hidden !important;
+  display: block !important;
+}
+
+/* Force the image to fill the wrapper without stretching */
+.sidebar .author__avatar img {
+  width: 100% !important;
+  height: 100% !important;
   object-fit: cover !important;
-  display: block;
+  border-radius: 0 !important;   /* wrapper handles circle */
+  display: block !important;
 }
