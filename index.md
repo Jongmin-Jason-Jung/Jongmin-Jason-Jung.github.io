@@ -16,7 +16,7 @@ to answer questions at the intersection of health economics, economics of aging,
 - **You can find my CV here : [CV](/files/Jung_CV.pdf)**
 
   
-In ongoing and completed projects, I study:
+I study:
 - How Medicare Advantage (MA) fitness benefits affect seniors’ physical activity?
 - How social networks and geography shape MA enrollment and program uptake?
 - What are the facilitators and barriers to exercise?
