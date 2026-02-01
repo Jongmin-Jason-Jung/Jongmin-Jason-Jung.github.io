@@ -7,6 +7,8 @@ author_profile: true
 
 Fields of interest : Health Economics,  Applied Microeconomics, Econometrics
 
+**Why do people exercise or not exercise ?**
+
 I am a health economist and applied microeconomist studying how insurance design, local resources, 
 and policy incentives shape health behavior ( especially physical activity ) and health outcomes over 
 the life cycle. My work combines quasi-experimental methods with rich survey and administrative data 
