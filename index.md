@@ -19,9 +19,9 @@ to answer questions at the intersection of health economics, economics of aging,
 
   
 I study:
-- How Medicare Advantage (MA) fitness benefits affect seniors’ physical activity?
-- How social networks and geography shape MA enrollment and program uptake?
 - What are the facilitators and barriers to exercise?
+- How neighborhood environment shape exercise behaviors?
+- How Medicare Advantage (MA) fitness benefits affect seniors’ physical activity?
 - How emerging technologies such as digital health tools, wearable devices shape peventive health behavior?
 - How place-based resources, such as food assistance programs and neighborhood environments, influence health?
 
