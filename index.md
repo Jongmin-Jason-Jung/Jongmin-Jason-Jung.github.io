@@ -18,14 +18,7 @@ to answer questions at the intersection of health economics, economics of aging,
 - **You can find my CV here : [CV](/files/Jung_CV.pdf)**
 
   
-I study:
-- What are the facilitators and barriers to exercise?
-- How neighborhood environment shape exercise behaviors?
-- How Medicare Advantage (MA) fitness benefits affect seniors’ physical activity?
-- How emerging technologies such as digital health tools, wearable devices shape peventive health behavior?
-- How place-based resources, such as food assistance programs and neighborhood environments, influence health?
-
-Together, these projects speak directly to current policy debates on how to design incentives for 
+My projects speak directly to current policy debates on how to design incentives for 
 healthy behavior among aging and vulnerable populations.
 
 
