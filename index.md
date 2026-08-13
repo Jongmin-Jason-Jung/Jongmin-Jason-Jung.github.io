@@ -5,16 +5,16 @@ permalink: /
 author_profile: true
 ---
 
-Fields of interest : Health Economics,  Applied Microeconomics, Econometrics
+Fields of interest : Health Economics, Economics of Fitness and Aging, Applied Microeconomics, Econometrics
 
 **Why do people exercise or not exercise ?**
 
-I am a health economist and applied microeconomist studying how insurance design, local resources, 
+I am a health economist and Applied Microeconomist studying how insurance design, local resources, 
 and policy incentives shape health behavior ( especially physical activity ) and health outcomes over 
 the life cycle. My work combines quasi-experimental methods with rich survey and administrative data 
-to answer questions at the intersection of health economics, economics of aging, and spatial inequality.
+to answer questions at the intersection of Health economics, Economics of Fitness and Aging.
 My projects speak directly to current policy debates on how to design incentives for 
-healthy behavior among aging and vulnerable populations.
+healthy behavior.
 
 - **You can find my CV here : [CV](/files/Jung_CV.pdf)**
 
