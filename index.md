@@ -11,7 +11,7 @@ Fields of interest : Health Economics, Economics of Fitness and Aging, Applied M
 
 I am a health economist and Applied Microeconomist studying how insurance design, local resources, and policy incentives shape health behavior (especially physical activity) and health outcomes over the life cycle. My work combines quasi-experimental methods with rich survey and administrative data to answer questions at the intersection of Health Economics and Economics of Fitness and Aging. My projects speak directly to current policy debates on how to design incentives for healthy behavior.
 
-* You can find my CV here : [CV](/files/Jason_Jung_CV.pdf)
+* You can find my CV here : [CV](/files/Jung_CV.pdf)
 
 <div style="display:flex; gap:18px; margin-top:25px; margin-bottom:25px; align-items:stretch;">
   <img src="/images/healthy-aging-exercise-1.jpg"
