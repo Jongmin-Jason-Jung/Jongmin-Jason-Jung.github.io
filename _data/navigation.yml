@@ -1,4 +1,7 @@
 main:
+  - title: "Education"
+    url: /education/
+    
   - title: "Research"
     url: /research/
 
@@ -8,5 +11,3 @@ main:
   - title: "Conference Presentation"
     url: /presentations/
 
-  - title: "Education"
-    url: /education/
