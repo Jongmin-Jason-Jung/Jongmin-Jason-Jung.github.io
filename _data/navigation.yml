@@ -1,9 +1,12 @@
 main:
   - title: "Research"
     url: /research/
+
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Conference Presentation"
+    url: /presentations/
+
   - title: "Education"
     url: /education/
-  - title: "Personal"
-    url: /personal/
