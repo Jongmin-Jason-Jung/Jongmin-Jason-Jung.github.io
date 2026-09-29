@@ -42,3 +42,20 @@
   opacity: 1 !important;
 }
 
+
+.research-card {
+  background: #fafafa;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  padding: 22px 24px;
+  margin: 20px 0 28px 0;
+}
+
+.research-card h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.research-card p:last-child {
+  margin-bottom: 0;
+}
