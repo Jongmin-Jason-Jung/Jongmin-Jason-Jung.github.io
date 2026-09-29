@@ -97,7 +97,7 @@ This paper studies whether neighborhood fitness culture affects physical activit
 
 This study examines geographic variation in childhood fitness and obesity using municipal-level data from Slovenia.
 
-[Paper](https://jason-jongmin-jung.com/files/Fitness_Obesity_Jung_etal_2026.pdf)
+*Available upon request.*
 
 </div>
 
@@ -109,7 +109,7 @@ This study examines geographic variation in childhood fitness and obesity using 
 
 This project develops a simulation framework linking population fitness to long-run healthcare costs.
 
-[Paper](https://jason-jongmin-jung.com/files/Fitness_Simulation_Jagric_etal_2026.pdf)
+*Available upon request.*
 
 </div>
 
