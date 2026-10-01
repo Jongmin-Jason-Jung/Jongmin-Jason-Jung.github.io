@@ -143,3 +143,28 @@
 .author__urls-wrapper .fab {
   color: #4b2e83 !important;
 }
+
+
+/* =========================================================
+   Page background
+   ========================================================= */
+
+/* Overall website background */
+html,
+body {
+  background-color: #f7f5fa !important;
+}
+
+/* Main content area */
+.initial-content,
+#main,
+.page,
+.sidebar {
+  background-color: transparent !important;
+}
+
+/* Keep top navigation white */
+.masthead,
+.greedy-nav {
+  background-color: #ffffff !important;
+}
