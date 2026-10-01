@@ -168,3 +168,14 @@ body {
 .greedy-nav {
   background-color: #ffffff !important;
 }
+
+
+/* Make top navigation text bolder */
+.masthead .greedy-nav .visible-links a {
+  font-weight: 650 !important;
+}
+
+/* Make top-left site title bolder too */
+.masthead .site-title {
+  font-weight: 650 !important;
+}
