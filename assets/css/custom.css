@@ -4,7 +4,7 @@
 
 /* Avatar wrapper */
 .sidebar .author__avatar,
-.sidebar .author__avatar a{
+.sidebar .author__avatar a {
   width: 220px !important;
   height: 220px !important;
   max-width: 220px !important;
@@ -15,7 +15,7 @@
 }
 
 /* Avatar image */
-.sidebar .author__avatar img{
+.sidebar .author__avatar img {
   width: 100% !important;
   height: 100% !important;
   max-width: none !important;
@@ -25,11 +25,12 @@
   display: block !important;
 }
 
+
 /* =========================================================
-   Disable hover / focus visual effects (NO resizing)
+   Disable hover / focus visual effects
    ========================================================= */
 
-.sidebar .author__avatar img{
+.sidebar .author__avatar img {
   transition: none !important;
   filter: none !important;
   opacity: 1 !important;
@@ -37,11 +38,15 @@
 
 .sidebar .author__avatar:hover img,
 .sidebar .author__avatar a:hover img,
-.sidebar .author__avatar a:focus img{
+.sidebar .author__avatar a:focus img {
   filter: none !important;
   opacity: 1 !important;
 }
 
+
+/* =========================================================
+   Research cards
+   ========================================================= */
 
 .research-card {
   background: #fafafa;
@@ -60,37 +65,81 @@
   margin-bottom: 0;
 }
 
-/* =========================
+
+/* =========================================================
    Site color scheme
-   ========================= */
+   UW purple accent
+   ========================================================= */
 
-/* Links */
-a {
-  color: #4b2e83;
-}
-
-a:hover {
-  color: #85754d;
-}
-
-/* Top navigation links */
-.greedy-nav a {
-  color: #4b2e83;
-}
-
-/* Site title */
-.site-title {
+/* Main content links */
+.page__content a,
+.page__content a:visited {
   color: #4b2e83 !important;
 }
 
-/* Headings */
+.page__content a:hover {
+  color: #85754d !important;
+}
+
+
+/* Top-left site title */
+.masthead .greedy-nav .site-title,
+.masthead .greedy-nav a.site-title {
+  color: #4b2e83 !important;
+}
+
+
+/* Top navigation links */
+.masthead .greedy-nav .visible-links a {
+  color: #4b2e83 !important;
+}
+
+.masthead .greedy-nav .visible-links a:hover {
+  color: #85754d !important;
+}
+
+
+/* Navigation underline / hover accent */
+.greedy-nav .visible-links a:before {
+  background: #4b2e83 !important;
+}
+
+
+/* Main page headings */
 .page__content h1,
 .page__content h2,
 .page__content h3 {
-  color: #333333;
+  color: #333333 !important;
 }
 
-/* Horizontal rule / subtle accents */
+
+/* Research card headings */
+.research-card h3 {
+  color: #4b2e83 !important;
+}
+
+
+/* Horizontal lines */
 .page__content hr {
-  border-color: #4b2e83;
+  border-color: #4b2e83 !important;
+}
+
+
+/* Sidebar links */
+.sidebar a,
+.sidebar a:visited {
+  color: #4b2e83 !important;
+}
+
+.sidebar a:hover {
+  color: #85754d !important;
+}
+
+
+/* Sidebar icons */
+.author__urls-wrapper i,
+.author__urls-wrapper .fas,
+.author__urls-wrapper .far,
+.author__urls-wrapper .fab {
+  color: #4b2e83 !important;
 }
