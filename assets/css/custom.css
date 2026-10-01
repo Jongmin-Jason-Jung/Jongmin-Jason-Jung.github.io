@@ -59,3 +59,38 @@
 .research-card p:last-child {
   margin-bottom: 0;
 }
+
+/* =========================
+   Site color scheme
+   ========================= */
+
+/* Links */
+a {
+  color: #4b2e83;
+}
+
+a:hover {
+  color: #85754d;
+}
+
+/* Top navigation links */
+.greedy-nav a {
+  color: #4b2e83;
+}
+
+/* Site title */
+.site-title {
+  color: #4b2e83 !important;
+}
+
+/* Headings */
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #333333;
+}
+
+/* Horizontal rule / subtle accents */
+.page__content hr {
+  border-color: #4b2e83;
+}
