@@ -5,11 +5,8 @@
 
 .sidebar {
   overflow: visible !important;
-
-  /* Minimal Mistakes can fade the sidebar */
   opacity: 1 !important;
 
-  /* Remove fade animation */
   transition: none !important;
   -webkit-transition: none !important;
 
@@ -24,21 +21,21 @@
 
 
 /* =========================================================
-   BIG, fixed-size, true circular avatar
+   Portrait-style avatar
    ========================================================= */
 
 /* Avatar wrapper */
 .sidebar .author__avatar {
-  width: 300px !important;
+  width: 250px !important;
   height: 300px !important;
-  max-width: 300px !important;
+  max-width: 250px !important;
   max-height: 300px !important;
 
   display: block !important;
-  border-radius: 50% !important;
   overflow: hidden !important;
 
-  /* Center larger avatar within sidebar */
+  border-radius: 12px !important;
+
   position: relative !important;
   left: 50% !important;
   transform: translateX(-50%) !important;
@@ -55,12 +52,11 @@
 .sidebar .author__avatar a {
   width: 100% !important;
   height: 100% !important;
-  max-width: none !important;
-  max-height: none !important;
 
   display: block !important;
-  border-radius: 50% !important;
   overflow: hidden !important;
+
+  border-radius: 12px !important;
 
   background: transparent !important;
   text-decoration: none !important;
@@ -77,6 +73,7 @@
 .sidebar .author__avatar img {
   width: 100% !important;
   height: 100% !important;
+
   max-width: none !important;
   max-height: none !important;
 
@@ -84,7 +81,8 @@
   object-position: center center !important;
 
   display: block !important;
-  border-radius: 50% !important;
+
+  border-radius: 12px !important;
 
   opacity: 1 !important;
   filter: none !important;
@@ -95,7 +93,7 @@
 
 
 /* =========================================================
-   Completely disable avatar hover / focus effects
+   Disable avatar hover / focus effects
    ========================================================= */
 
 .sidebar .author__avatar:hover,
@@ -173,7 +171,7 @@
 }
 
 
-/* Navigation underline / hover accent */
+/* Navigation underline */
 .greedy-nav .visible-links a:before {
   background: #4b2e83 !important;
 }
@@ -229,7 +227,7 @@ body {
 }
 
 
-/* Main content area stays transparent */
+/* Main content area */
 .initial-content,
 #main,
 .page,
@@ -270,9 +268,10 @@ body {
 
   .sidebar .author__avatar {
     width: 220px !important;
-    height: 220px !important;
+    height: 264px !important;
+
     max-width: 220px !important;
-    max-height: 220px !important;
+    max-height: 264px !important;
   }
 
 }
@@ -283,9 +282,10 @@ body {
 
   .sidebar .author__avatar {
     width: 180px !important;
-    height: 180px !important;
+    height: 216px !important;
+
     max-width: 180px !important;
-    max-height: 180px !important;
+    max-height: 216px !important;
 
     left: 0 !important;
     transform: none !important;
