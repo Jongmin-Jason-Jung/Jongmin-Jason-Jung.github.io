@@ -26,10 +26,10 @@
 
 /* Avatar wrapper */
 .sidebar .author__avatar {
-  width: 250px !important;
-  height: 300px !important;
-  max-width: 250px !important;
-  max-height: 300px !important;
+  width: 300px !important;
+  height: 350px !important;
+  max-width: 300px !important;
+  max-height: 350px !important;
 
   display: block !important;
   overflow: hidden !important;
