@@ -1,12 +1,31 @@
 /* =========================================================
-   BIG, fixed-size, true circular avatar
+   Sidebar
+   Keep full opacity at all times
    ========================================================= */
 
-/* Allow the larger avatar to display beyond sidebar bounds */
 .sidebar {
   overflow: visible !important;
+
+  /* Minimal Mistakes can fade the sidebar */
+  opacity: 1 !important;
+
+  /* Remove fade animation */
+  transition: none !important;
+  -webkit-transition: none !important;
+
+  background-color: transparent !important;
 }
 
+.sidebar:hover,
+.sidebar:focus,
+.sidebar:active {
+  opacity: 1 !important;
+}
+
+
+/* =========================================================
+   BIG, fixed-size, true circular avatar
+   ========================================================= */
 
 /* Avatar wrapper */
 .sidebar .author__avatar {
@@ -24,7 +43,6 @@
   left: 50% !important;
   transform: translateX(-50%) !important;
 
-  /* Prevent theme visual effects */
   opacity: 1 !important;
   filter: none !important;
   -webkit-filter: none !important;
