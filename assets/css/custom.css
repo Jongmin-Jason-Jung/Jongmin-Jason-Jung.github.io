@@ -2,10 +2,11 @@
    BIG, fixed-size, true circular avatar
    ========================================================= */
 
-/* Allow the larger avatar to display without being clipped */
+/* Allow the larger avatar to display beyond sidebar bounds */
 .sidebar {
   overflow: visible !important;
 }
+
 
 /* Avatar wrapper */
 .sidebar .author__avatar {
@@ -18,11 +19,19 @@
   border-radius: 50% !important;
   overflow: hidden !important;
 
-  /* Center the larger avatar within the sidebar */
+  /* Center larger avatar within sidebar */
   position: relative !important;
   left: 50% !important;
   transform: translateX(-50%) !important;
+
+  /* Prevent theme visual effects */
+  opacity: 1 !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+  transition: none !important;
+  box-shadow: none !important;
 }
+
 
 /* Avatar link */
 .sidebar .author__avatar a {
@@ -34,7 +43,17 @@
   display: block !important;
   border-radius: 50% !important;
   overflow: hidden !important;
+
+  background: transparent !important;
+  text-decoration: none !important;
+
+  opacity: 1 !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+  transition: none !important;
+  box-shadow: none !important;
 }
+
 
 /* Avatar image */
 .sidebar .author__avatar img {
@@ -46,26 +65,38 @@
   object-fit: cover !important;
   object-position: center center !important;
 
-  border-radius: 50% !important;
   display: block !important;
+  border-radius: 50% !important;
+
+  opacity: 1 !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+  transition: none !important;
+  box-shadow: none !important;
 }
 
 
 /* =========================================================
-   Disable hover / focus visual effects
+   Completely disable avatar hover / focus effects
    ========================================================= */
 
-.sidebar .author__avatar img {
-  transition: none !important;
-  filter: none !important;
-  opacity: 1 !important;
-}
-
+.sidebar .author__avatar:hover,
+.sidebar .author__avatar:focus,
+.sidebar .author__avatar:active,
+.sidebar .author__avatar a:hover,
+.sidebar .author__avatar a:focus,
+.sidebar .author__avatar a:active,
 .sidebar .author__avatar:hover img,
+.sidebar .author__avatar:focus img,
+.sidebar .author__avatar:active img,
 .sidebar .author__avatar a:hover img,
-.sidebar .author__avatar a:focus img {
-  filter: none !important;
+.sidebar .author__avatar a:focus img,
+.sidebar .author__avatar a:active img {
   opacity: 1 !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+  transition: none !important;
+  box-shadow: none !important;
 }
 
 
@@ -174,19 +205,20 @@
    Page background
    ========================================================= */
 
-/* Overall website background */
 html,
 body {
   background-color: #f1edf7 !important;
 }
 
-/* Main content area */
+
+/* Main content area stays transparent */
 .initial-content,
 #main,
 .page,
 .sidebar {
   background-color: transparent !important;
 }
+
 
 /* Keep top navigation white */
 .masthead,
@@ -199,12 +231,13 @@ body {
    Navigation typography
    ========================================================= */
 
-/* Make top navigation text bolder */
+/* Navigation items */
 .masthead .greedy-nav .visible-links a {
   font-weight: 600 !important;
 }
 
-/* Make top-left site title bolder */
+
+/* Top-left name */
 .masthead .site-title {
   font-weight: 700 !important;
 }
@@ -212,19 +245,24 @@ body {
 
 /* =========================================================
    Responsive avatar
-   Keep it from becoming too large on smaller screens
    ========================================================= */
 
+/* Medium screens */
 @media (max-width: 1024px) {
+
   .sidebar .author__avatar {
     width: 220px !important;
     height: 220px !important;
     max-width: 220px !important;
     max-height: 220px !important;
   }
+
 }
 
+
+/* Phones / narrow screens */
 @media (max-width: 768px) {
+
   .sidebar .author__avatar {
     width: 180px !important;
     height: 180px !important;
@@ -234,4 +272,5 @@ body {
     left: 0 !important;
     transform: none !important;
   }
+
 }
