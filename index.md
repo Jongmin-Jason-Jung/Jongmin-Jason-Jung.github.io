@@ -5,7 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-Fields of interest : Health Economics, Economics of Fitness and Aging, Applied Microeconomics, Econometrics
+Fields of interest : Health Economics, Economics of Fitness and Aging, Applied Microeconomics
+
+## I am on the 2026-2027 Job Market.
 
 ## Why do people exercise or not exercise?
 
